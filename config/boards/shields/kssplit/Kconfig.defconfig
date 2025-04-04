@@ -1,6 +1,6 @@
 if SHIELD_KSSPLIT
 
 config ZMK_KEYBOARD_NAME
-    default "kssplit"
+    default "Kssplit"
 
 endif
